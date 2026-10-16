@@ -2,7 +2,7 @@
 
 A table-mounted robotic arm that I am building from scratch.
 
-Goals: wipe a table, draw/write with a pen, and act as a "third hand" that holds boards and wires while I solder. Later: a camera and a small neural network so it can see what it is doing.
+Goals: clear clutter of a table, draw/write with a pen, and act as a "third hand" that holds boards and wires while I solder. Later: a camera and a small neural network so it can see what it is doing.
 
 ## Status
 
@@ -10,7 +10,7 @@ Planning. See docs/roadmap.md. Progress is logged in docs/build-log.md.
 
 ## Demo
 
-(Video and photos go here once something moves.)
+()
 
 ## How it works
 
@@ -27,7 +27,6 @@ Planning. See docs/roadmap.md. Progress is logged in docs/build-log.md.
 
 ## What failed and what I learned
 
-(Honest notes: what broke and how I fixed it.)
 
 ## License
 
